@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName"
+    EvaluatedDefinition="Sheldon Manufacturing">Sheldon Manufacturing</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber">858 123 4567</Variable>
+  <Variable
+    Name="Brand"
+    Comment=""
+    EvaluatedDefinition="SHEL LAB">SHEL LAB</Variable>
+  <Variable
+    Name="Brand"
+    Comment=""
+    EvaluatedDefinition="LAB ARMOR">LAB ARMOR</Variable>
+  <Variable
+    Name="Brand"
+    Comment=""
+    EvaluatedDefinition="Cascade TEK">Cascade TEK</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="incubator">incubator</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="vacuum oven">vacuum oven</Variable>
+  <Variable
+    Name="NewDateTimeVariable"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2018-07-02T12:56:56.8305509-07:00"
+    EvaluatedDefinition="MMMM dd, yyy">MMMM dd, yyy</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="forced air oven">forced air oven</Variable>
+  <Variable
+    Name="CompanyName"
+    Comment=""
+    EvaluatedDefinition="Cascade TEK">Cascade TEK</Variable>
+</CatapultVariableSet>

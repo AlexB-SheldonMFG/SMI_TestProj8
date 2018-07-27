@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>
+            <img src="../../Images/Front_Matter/SheldonMFG_BW_mini10.png" alt="Sheldon Manufacturing logo, black and white" />
+        </p>
+        <p><MadCap:variable name="Variables.Brand" />&#160;is a brand of Sheldon Manufacturing.</p>
+    </body>
+</html>

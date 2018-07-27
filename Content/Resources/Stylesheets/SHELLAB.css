@@ -1,0 +1,405 @@
+﻿/*<meta />*/
+
+body
+{
+	font-family: 'Proxima Nova';
+	mc-hyphenate: never;
+}
+
+/* Header Formats */
+
+h1
+{
+	text-transform: uppercase;
+	text-indent: 40pt;
+	font-size: 22pt;
+	page-break-before: always;
+	font-family: 'Proxima Nova Semibold';
+	color: #FFFFFF;
+	font-weight: bold;
+	line-height: 14pt;
+}
+
+h2
+{
+	font: 'Proxima Nova Semibold';
+	font-size: 16pt;
+	font-style: italic;
+	font-variant: small-caps;
+	margin-top: 12pt;
+	margin-bottom: 3pt;
+	page-break-after: avoid;
+}
+
+h3
+{
+	font: 'Proxima Nova Semibold';
+	font-size: 14.0pt;
+	mc-heading-level: 0;
+}
+
+h4
+{
+	font-weight: bold;
+	font-size: 12.0pt;
+	mc-heading-level: 0;
+}
+
+h5
+{
+	font-weight: bold;
+	font-size: 10.0pt;
+	margin-bottom: 3pt;
+	mc-heading-level: 0;
+}
+
+h6
+{
+	font-weight: bold;
+	font-size: 8.0pt;
+	mc-heading-level: 0;
+}
+
+/* Wrappers */
+
+div.NoPageBreak
+{
+	page-break-inside: avoid;
+	font-size: 10.0pt;
+	margin-top: 0pt;
+	margin-bottom: 10pt;
+	margin-right: 27pt;
+}
+
+/* Paragraph Formats */
+
+p
+{
+	font-size: 10.0pt;
+	margin-top: 0pt;
+	margin-bottom: 10pt;
+	margin-right: 27pt;
+}
+
+p.centered
+{
+	font-size: 10.0pt;
+	text-align: center;
+	margin-top: 0pt;
+	margin-bottom: 10pt;
+	margin-right: 27pt;
+}
+
+p.no_space
+{
+	font-size: 10.0pt;
+	margin-top: 0pt;
+	margin-bottom: 3pt;
+	margin-right: 27pt;
+}
+
+p.Ital
+{
+	font-style: italic;
+}
+
+p.Heading_Left_Continued_SL
+{
+	font-weight: bold;
+	text-transform: uppercase;
+	text-indent: ;
+	font-size: 22pt;
+	margin-bottom: 12pt;
+	margin-left: 0pt;
+	margin-right: 0pt;
+	color: #FFFFFF;
+	border-bottom-style: none;
+	border-bottom-width: 0pt;
+	border-bottom-color: black;
+	background-color: #A7A6A6;
+	text-align: Left;
+	font-family: 'Proxima Nova Semibold';
+}
+
+p.Note_Sheldon
+{
+	margin-top: 2pt;
+	margin-right: 27pt;
+	orphans: 2;
+	widows: 2;
+	border-top-style: solid;
+	border-top-width: 1pt;
+	border-top-color: black;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: black;
+	margin-bottom: 6pt;
+	text-align: justify;
+	font-family: 'Proxima Nova';
+}
+
+p.Warning_Sheldon
+{
+	border-top-style: solid;
+	border-top-width: 1pt;
+	border-top-color: black;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: black;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	margin-left: 0pt;
+	font-family: 'Proxima Nova';
+	color: #000000;
+}
+
+/* Heading Bar Format */
+
+p.Heading_Right_Continued_SL
+{
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 22pt;
+	margin-bottom: 12pt;
+	margin-left: 0pt;
+	margin-right: 0pt;
+	border-bottom-style: none;
+	border-bottom-width: 0pt;
+	border-bottom-color: black;
+	text-align: right;
+	font-family: 'Proxima Nova Semibold';
+	color: #FFFFFF;
+}
+
+/* Cover Formats */
+
+p.Title_Family
+{
+	font-size: 22pt;
+	font-weight: bold;
+	margin-bottom: 15pt;
+	color: #808080;
+}
+
+p.Title_Voltage
+{
+	font-size: 18pt;
+	font-weight: bold;
+	margin-bottom: 10pt;
+	color: #808080;
+}
+
+p.Title_Doc_Type
+{
+	font-size: 28pt;
+	margin-bottom: 15pt;
+	text-align: Right;
+}
+
+p.Title_Units
+{
+	font-size: 14pt;
+	font: 'Proxima Nova Semibold';
+	color: #808080;
+	text-align: Right;
+	font-weight: bold;
+	word-spacing: 5em;
+}
+
+p.Back_Page
+{
+	font-size: 12pt;
+	font: 'Proxima Nova Semibold';
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+/* Emphasis Formats */
+
+p.Emphasis_16
+{
+	font: 'Proxima Nova';
+	font-weight: bold;
+	font-size: 16.0pt;
+}
+
+p.Emphasis_14
+{
+	font: 'Proxima Nova';
+	font-weight: bold;
+	font-size: 14.0pt;
+}
+
+p.Emphasis_12
+{
+	font: 'Proxima Nova';
+	font-weight: bold;
+	font-size: 12.0pt;
+}
+
+p.Emphasis_10
+{
+	font: 'Proxima Nova';
+	font-weight: bold;
+	font-size: 10.0pt;
+}
+
+ol
+{
+	margin-bottom: 10pt;
+	font-family: 'Proxima Nova';
+	margin-top: 0pt;
+	font-size: 10pt;
+}
+
+/* List Formats */
+
+ul
+{
+	margin-bottom: 10pt;
+	margin-top: 0pt;
+	font-size: 10pt;
+}
+
+li
+{
+	margin-bottom: 10pt;
+	margin-top: 0pt;
+	font-size: 10pt;
+}
+
+li.Sheldon_Numbered
+{
+	margin-top: 2pt;
+	margin-bottom: 10pt;
+	margin-right: 27pt;
+}
+
+p.Sheldon_Numbered
+{
+	margin-top: 2pt;
+	margin-bottom: 10pt;
+	margin-right: 27pt;
+}
+
+li.Sheldon_bulleted1
+{
+	list-style-position: outside;
+	margin-left: 25pt;
+	margin-right: 27pt;
+}
+
+li.Sheldon_body_bulleted2
+{
+	margin-top: 2pt;
+	margin-bottom: 10pt;
+	margin-right: 27pt;
+	margin-left: 59pt;
+	font-family: 'Proxima Nova';
+}
+
+p.Sheldon_body_bulleted2
+{
+	margin-top: 2pt;
+	margin-bottom: 10pt;
+	margin-right: 27pt;
+	margin-left: 59pt;
+	font-family: 'Proxima Nova';
+}
+
+/* Tabel Builds */
+
+table
+{
+	border-collapse: collapse;
+	border: 0.5pt solid black;
+}
+
+table.PartIDs_SL
+{
+	border-collapse: collapse;
+	border: 0.5pt solid black;
+	width: 100%;
+}
+
+/* Tabel text Formats */
+
+th
+{
+	margin-bottom: 2pt;
+	margin-top: 2pt;
+	vertical-align: middle;
+	font-weight: bold;
+	background-color: #f2f2f2;
+	border-bottom: 0.5pt solid black;
+}
+
+td
+{
+	margin-bottom: 2pt;
+	margin-top: 2pt;
+	vertical-align: middle;
+	border-bottom: 0.5pt solid black;
+}
+
+th.Centered_SL
+{
+	margin-bottom: 2pt;
+	margin-top: 2pt;
+	vertical-align: middle;
+	font-weight: bold;
+	background-color: #f2f2f2;
+	border-bottom: 0.5pt solid black;
+	font-size: 10pt;
+}
+
+td.Centered
+{
+	margin-bottom: 4pt;
+	margin-top: 4pt;
+	vertical-align: middle;
+	text-align: center;
+	border-bottom: 0.5pt solid black;
+	font-size: 10pt;
+}
+
+/* Image Formats */
+
+img
+{
+	border: none;
+}
+
+img.centered
+{
+	border: none;
+	text-align: center;
+}
+
+a.Popup
+{
+	
+}
+
+MadCap|expandingHead
+{
+	font-style: italic;
+	font-weight: normal;
+	cursor: hand;
+	text-decoration: none;
+	color: #006600;
+}
+
+MadCap|expandingBody
+{
+	color: #777777;
+	font-style: italic;
+}
+
+MadCap|dropDownHotspot
+{
+	cursor: hand;
+	font-style: italic;
+	text-decoration: none;
+	color: #006600;
+}

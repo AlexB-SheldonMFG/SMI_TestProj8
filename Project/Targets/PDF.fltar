@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Adobe PDF Target"
+  Type="PDF"
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="include[&quot;Default.100 - 120 Voltage&quot; or &quot;Default.TUV - Tested&quot;] exclude[&quot;Default.220 - 240 Voltage&quot; or &quot;Default.TUV - Not Tested&quot;] ">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Variables>
+    <Variable
+      Name="Variables/Product">vacuum oven</Variable>
+  </Variables>
+  <PDF
+    RequireOpenPassword="false"
+    OpenPassword="IE5ESsq8X1B5+vqMMjluvw=="
+    RestrictPermissions="true"
+    RestrictPrinting="false"
+    ModifyPassword="IE5ESsq8X1B5+vqMMjluvw=="
+    CollapsedBookmarks="true" />
+</CatapultTarget>

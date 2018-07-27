@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    Comment=""
+    Name="ScreenOnly"
+    BackgroundColor="Blue" />
+  <ConditionTag
+    Comment=""
+    Name="PrintOnly"
+    BackgroundColor="Red" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="100 - 120 Voltage"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="220 - 240 Voltage"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="TUV - Tested"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="TUV - Not Tested"
+    Comment="" />
+</CatapultConditionTagSet>

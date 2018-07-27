@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="4861825"
+  Type="PDF"
+  Destinations=""
+  MasterToc="/Project/TOCs/Master.fltoc"
+  GetLatestBeforeCompile="true"
+  ConditionTagExpression="include[&quot;Default.100 - 120 Voltage&quot; or &quot;Default.TUV - Tested&quot;] exclude[&quot;Default.220 - 240 Voltage&quot; or &quot;Default.TUV - Not Tested&quot;] "
+  InjectEmptyPages="true"
+  PatchHeadingLevels="false"
+  MasterStylesheet="/Content/Resources/Stylesheets/SHELLAB.css">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false" />
+  <Variables>
+    <Variable
+      Name="Variables/Product">incubator</Variable>
+    <Variable
+      Name="Variables/CompanyName">Shel</Variable>
+  </Variables>
+  <Glossaries />
+  <PDF
+    RestrictPermissions="true"
+    RestrictPrinting="false"
+    ModifyPassword="IE5ESsq8X1A2IdQ7v+HKIQ=="
+    ConvertToCMYK="true" />
+  <DocumentProperties
+    Author="Alex Black; Emily Baker-Stuckman"
+    Title="4861825 User Manual SMI2 SMI6 SMI7 SMI11 SMI12" />
+</CatapultTarget>

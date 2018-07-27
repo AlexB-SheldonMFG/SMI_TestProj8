@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject Version="1" MasterStylesheet="/Content/Resources/Stylesheets/SHELLAB.css" MasterStylesheetOverride="True" xml:lang="en-us" SourceControlBound="true" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project." SourceControlProviderType="Git" ProjectGuid="fe1530c8-ce54-4a16-b948-ca8e95b86513">
+    <Synchronize>
+        <Mapping ProjectPath="Content/Resources/Images/SHELLAB_Covers/SL_Logo.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Graphics/Logos/SHEL_LAB/SL_Logo.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SHELLAB_Covers/SL_Front.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Graphics/Manuals_Elements/Cover_Matter/Shel_Lab/SL_Front.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Page_Elements/SL_Footer_Fade.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Graphics/Manuals_Elements/Page_GFXs/SL_Footer_Fade.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Page_Elements/SL_Atom_Fade_Mini20.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Graphics/Manuals_Elements/Page_GFXs/SL_Atom_Fade_Mini20.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Front_Matter/SheldonMFG_BW_Mini15.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Graphics/Logos/Sheldon_MFG/SheldonMFG_BW_Mini15.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Front_Matter/SheldonMFG_BW_mini10.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Graphics/Logos/Sheldon_MFG/SheldonMFG_BW_mini10.png" />
+        <Mapping ProjectPath="Content/Resources/Images/NRTL_1_Mini25.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Graphics/Cert_Marks/NRTL_1_Mini25.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Front_Matter/NRTL_1_Mini30.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Graphics/Cert_Marks/NRTL_1_Mini30.png" />
+        <Mapping ProjectPath="Content/Resources/Images/CE_Cert_Mini15.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Graphics/Cert_Marks/CE_Cert_Mini15.png" />
+    </Synchronize>
+</CatapultProject>

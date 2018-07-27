@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Width="800" Height="800" Padding="1in" PageSize="Letter" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" PageType="title">
+        <Frame X="-80px" Y="-73px" Width="8.125in" Height="10.52083in" Flow="decoration2" Right="-76px" Bottom="-73px" BackgroundImage="../../Images/Front_Matter/SHELLAB_Covers/SL_Front.png" BackgroundRepeat="stretch" Anchors="" />
+        <Frame X="-82px" Y="-22px" Width="804px" Height="960px" Flow="decoration0" Right="-98px" Bottom="-74px" BackgroundImage="../Images/Sheldon_Manuals/Cover Images/Front_Matter_CoverBKGND.png" BackgroundRepeat="stretch" Anchors="">
+        </Frame>
+        <Frame X="-33px" Y="-43px" Width="726px" Height="36px" Flow="body" Right="-69px" Bottom="871px" Anchors="" FlowIndex="0" />
+        <Frame X="-31px" Y="78px" Width="488px" Height="43px" FlowIndex="4" Flow="body" Right="167px" Bottom="743px" />
+        <Frame X="-26px" Y="835px" Width="717px" Height="124px" FlowIndex="4" Flow="body" Right="-67px" Bottom="-95px" />
+        <Frame X="-29px" Y="151px" Width="720px" Height="668px" FlowIndex="5" Flow="body" Right="-67px" Bottom="45px" />
+        <Frame X="-32px" Y="1px" Width="505px" Height="68px" Flow="decoration1" Right="151px" Bottom="795px" BackgroundImage="../../Images/Front_Matter/SHELLAB_Covers/SL_Logo.png" BackgroundRepeat="stretch" />
+    </Page>
+</PageStyles>
